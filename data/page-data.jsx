@@ -1,14 +1,14 @@
 export const personalData = {
-	name: "Joe Doe",
-	role: "Software Engineer",
+	name: "David Mhlabane",
+	role: "Volunteer IT Support",
 	education: [
 		"Bachelor of Science in Computer Science, University of Oxford(2015-2019)",
 		"Master of Science in Artificial Intelligence, Imperial College London (2019-2021)",
 	],
 	contactLinks: [
-		"mailto:emailto:time2code@gmail.com",
+		"mailto:emailto:dmhlabane1@gmail.com",
 		"https://twitter.com/time_tocode",
-		"https://linkedin.com/aliciarodriguezLi",
+		"https://www.linkedin.com/in/david-mhlabane-073084177",
 		"https://medium.com/@time2code.ali",
 	],
 };

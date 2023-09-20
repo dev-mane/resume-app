@@ -2,6 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300&display=swap');
+
 @layer base {
 	h1 {
 		@apply text-yellow text-4xl sm:text-6xl;
@@ -26,7 +28,7 @@
 		@apply font-display;
 	}
 	html {
-		font-family: Merriweather;
+		font-family: 'Fira Code', monospace, Merriweather;
 	}
 }
 
